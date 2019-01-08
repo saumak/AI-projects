@@ -1,0 +1,26 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Sat Sep 30 14:49:09 2017
+
+@author: PulkitMaloo
+"""
+===============================================================================
+ Test_cases
+===============================================================================
+
+Bloomington,_Indiana Indianapolis,_Indiana uniform distance
+
+check for start city == end city?
+
+If start_city or end_city has no lat lon
+
+start_city = 'Bloomington,_Indiana'
+end_city = 'Indianapolis,_Indiana'
+routing_algorithm = 'uniform'
+cost_function = 'distance'
+
+start_city = 'Bloomington,_Indiana'
+end_city = 'Seattle,_Washington'
+
+start_city = 'Chicago,_Indiana'
+end_city = 'Seattle,_Washington'
